@@ -1,5 +1,6 @@
 .container {
-  padding: 0 2rem;
+  background: #E5E5E5;
+  display: flex;
 }
 
 .main {
